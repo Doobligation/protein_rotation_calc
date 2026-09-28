@@ -1,4 +1,4 @@
-# Ribose-binding protein: Cartesian vs torsion normal modes
+# Cartesian vs torsion normal modes in different Proteins
 
 A runnable, target-guided **backbone structural fitting benchmark**, with bundled source structures, numerical checks, measured outputs and an offline interactive viewer.
 
@@ -97,15 +97,15 @@ Metric eigenvalues below 1e-10 of the maximum are removed before whitening; reta
 The target-guided objective for both methods is:
 
 $$
-\min_a\operatorname{RMSD}_{CA}(x_C(a),x_B)^2,
+\min_a\mathrm{RMSD}_{\mathrm{C}\alpha}(x_C(a),x_B)^2,
 \qquad
-\min_b\operatorname{RMSD}_{CA}(x_T(b),x_B)^2.
+\min_b\mathrm{RMSD}_{\mathrm{C}\alpha}(x_T(b),x_B)^2.
 $$
 
 Every objective evaluation optimally aligns the structures by a proper Kabsch rotation on Cα atoms. Both branches use L-BFGS-B, analytic gradients, mode-amplitude bounds [-8, 8], maximum 150 iterations, ftol=1e-10 and gtol=1e-6. Amplitudes have been normalized by tangent Cα displacement; equal coefficients do not imply equal finite physical motion in nonlinear torsion space. Seed 0 starts at zero; seeds 1 and 2 start with Gaussian coefficients of standard deviation 0.25. These bounds and initializations are prototype settings. Target B guides the fit, so this is not blind prediction.
 
 $$
-f_{RMS}=\frac{\operatorname{RMSD}_{CA}(X,B)}{\operatorname{RMSD}_{CA}(A,B)}.
+f_{RMS}=\frac{\mathrm{RMSD}_{\mathrm{C}\alpha}(X,B)}{\mathrm{RMSD}_{\mathrm{C}\alpha}(A,B)}.
 $$
 
 The mode counts are 1, 2, 5 and 10. Modes are computed from the fixed starting structure, not relinearized along the motion. There is no physical energy ranking, dynamics integration, free-energy estimate or geometry relaxation.
