@@ -1,0 +1,146 @@
+{
+  "parameters": {
+    "worker": false,
+    "pair": null,
+    "reverse": false,
+    "method": null,
+    "k": 10,
+    "maxiter": 150,
+    "seed": 0,
+    "both_directions": true,
+    "pairs": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "config": null,
+    "start": null,
+    "target": null,
+    "start_chains": null,
+    "target_chains": null,
+    "name": null,
+    "output": "rbp_benchmark/results_13"
+  },
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "inputs": {
+    "1MDT": "c187b9902b045f65e7de9828cc80401c84e0190eccd379ba0205736bdeec01e0",
+    "1QLN": "9b19f4e7b0286c701a65200e36351775bdbf5bd2d41d755a78bc7c6fc15c9d75",
+    "1YZ9": "11931f3d26396fe74b9d6ccd5ee767d551ad89c439be0f3f69a5964c3287641f",
+    "1LFG": "2d51d63de2522ac9906da33c7b8e04fb5b2c3adc38cd663a9a383287b3adf4b3",
+    "1HPU": "ecda00578dae96b101726a111ef354859f6729f7bcd8bde6a12b76256fa2b98f",
+    "1OID": "284cf3aaaaba2b51d9968d336fa0924595062c1a11add68ff3485722d7d92a64",
+    "1CLL": "54c094c7c337d7b5829bb9d865cd0042f9e5557478d1528f76c1e7b691f8ce37",
+    "1DDT": "bde1fd1984286d8921fa9621dfac31bec13a3aae8b0040ba3d2b58c2d11c4174",
+    "1IWO": "f5baf6908d53e53ad8c9e90d07e4f63ca6b6a045cb7405c61e8a46fd65e3801e",
+    "1CTR": "c5175d0bb1d60a06c07fbdb23c182c9d61173ec53bac059aafa8b822889c4091",
+    "8ATC": "53135b974079db2c02f1f890ae547e2949d9865189c24a7cf2d6203f61d6e216",
+    "1LST": "e2486b03a6714f87493122abae64cf6cee21f4b0ed199b5ac5ac50474d9e172b",
+    "2DRI": "4bb0398e05a34fcba530e1afd2696e0f5822c190787fc78d29fdcd5b06c16b35",
+    "1DC8": "e02709d8541678ac74fe617912a7fe2290f480c2125a5f7fbb436e67b2072ecd",
+    "1BA2": "378550a6a2d6326f64633b62272eb5e540fdaaa8999aa81fd07748c27edef0da",
+    "2LAO": "0bc08612a191121dc6ae4c7a857907f3572262c0b555e3e18c49bc72326e532a",
+    "9AAT": "ea9d76f54a7599bb77a061821c0c7c75915b62cedaf99541c0e7c1b016f4b5fd",
+    "1LFH": "a545a294a3a0ca7f8ba144921f29a9f4825970b7c84c4110efb2b3b2721a7203",
+    "1YYO": "bebc623d1897939224aa233596ac9871d6a5ae487d7848bd7b8768f184f5f09d",
+    "1QVI": "a63f025185445e515e978e70590383de44c0b27d81616204502f5026a76ab690",
+    "1DC7": "bb0a755d1e3c20f50b1910c7185167d1041e4a43e67ad2530186d9740cc9496f",
+    "1AMA": "144e59585efd2a8300e52c54227f1b829aa3c652783b6407f2b09e5cd906b35c",
+    "1MSW": "518e3faf48530a2e1868488347dbada31d8024d5ce0c240403f72b687c87774d",
+    "1SU4": "495a8d50efc12738f33c84548c5ecaa79affe03bb64463acda8a2798a13c39f4",
+    "5AT1": "eca17ad60e341499ddfe242f04d45e9d35264787e75705afa395a28a0264b0a8",
+    "1KK8": "b7736e9f16d9097518f53ed509ffde6ac54627f75837875c234c6b0398317e97"
+  },
+  "statuses": {
+    "Ribose-binding protein": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Calmodulin": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "LAO binding protein": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Ribonuclease III": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Diphtheria toxin": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Lactoferrin": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Aspartate transcarbamoylase": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Aspartate aminotransferase": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Skeletal muscle Ca2+ ATPase": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "5-prime Nucleotidase": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Scallop myosin II": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "T7 RNA polymerase": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ],
+    "Nitrogen regulatory protein C": [
+      "success",
+      "success",
+      "success",
+      "success"
+    ]
+  }
+}

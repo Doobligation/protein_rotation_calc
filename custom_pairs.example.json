@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Example LAO binding protein",
+    "a": "2LAO",
+    "b": "1LST",
+    "chains_a": "A",
+    "chains_b": "A"
+  }
+]

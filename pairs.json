@@ -1,0 +1,15 @@
+[
+ {"name":"Ribose-binding protein","a":"1BA2","b":"2DRI","chains_a":"A","chains_b":"A","paper_residues":271},
+ {"name":"Calmodulin","a":"1CLL","b":"1CTR","chains_a":"A","chains_b":"A","paper_residues":144},
+ {"name":"LAO binding protein","a":"2LAO","b":"1LST","chains_a":"A","chains_b":"A","paper_residues":238},
+ {"name":"Ribonuclease III","a":"1YZ9","b":"1YYO","chains_a":"AB","chains_b":"AB","paper_residues":436},
+ {"name":"Diphtheria toxin","a":"1DDT","b":"1MDT","chains_a":"A","chains_b":"A","paper_residues":535},
+ {"name":"Lactoferrin","a":"1LFH","b":"1LFG","chains_a":"A","chains_b":"A","paper_residues":691},
+ {"name":"Aspartate transcarbamoylase","a":"8ATC","b":"5AT1","chains_a":"auto","chains_b":"auto","paper_residues":912},
+ {"name":"Aspartate aminotransferase","a":"9AAT","b":"1AMA","chains_a":"A","chains_b":"A","paper_residues":401},
+ {"name":"Skeletal muscle Ca2+ ATPase","a":"1SU4","b":"1IWO","chains_a":"A","chains_b":"A","paper_residues":994},
+ {"name":"5-prime Nucleotidase","a":"1HPU","b":"1OID","chains_a":"D","chains_b":"A","paper_residues":525},
+ {"name":"Scallop myosin II","a":"1QVI","b":"1KK8","chains_a":"AYZ","chains_b":"ABC","paper_residues":1079},
+ {"name":"T7 RNA polymerase","a":"1MSW","b":"1QLN","chains_a":"D","chains_b":"A","paper_residues":883},
+ {"name":"Nitrogen regulatory protein C","a":"1DC8","b":"1DC7","chains_a":"A","chains_b":"A","paper_residues":123}
+]

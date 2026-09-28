@@ -1,0 +1,73 @@
+method,modes,seed,rmsd_threshold_A,time_seconds,status,scope
+cartesian,1,0,2.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,0,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,1,2.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,1,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,2,2.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,2,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,1,2,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,0,2.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,0,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,1,2.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,1,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,2,2.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,2,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,2,2,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,5,0,2.0,0.8031583629999659,reached,RMSD only; geometry not screened at every history point
+cartesian,5,0,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,5,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,5,1,2.0,0.8212746499993955,reached,RMSD only; geometry not screened at every history point
+cartesian,5,1,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,5,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,5,2,2.0,0.8503252509999584,reached,RMSD only; geometry not screened at every history point
+cartesian,5,2,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,5,2,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,10,0,2.0,0.8525840339989372,reached,RMSD only; geometry not screened at every history point
+cartesian,10,0,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,10,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,10,1,2.0,0.8315976350004348,reached,RMSD only; geometry not screened at every history point
+cartesian,10,1,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,10,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+cartesian,10,2,2.0,0.8294650399984675,reached,RMSD only; geometry not screened at every history point
+cartesian,10,2,1.5,,not reached,RMSD only; geometry not screened at every history point
+cartesian,10,2,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,0,2.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,0,1.5,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,1,2.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,1,1.5,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,2,2.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,2,1.5,,not reached,RMSD only; geometry not screened at every history point
+torsion,1,2,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,2,0,2.0,0.5011862659994222,reached,RMSD only; geometry not screened at every history point
+torsion,2,0,1.5,,not reached,RMSD only; geometry not screened at every history point
+torsion,2,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,2,1,2.0,0.5205003999999462,reached,RMSD only; geometry not screened at every history point
+torsion,2,1,1.5,,not reached,RMSD only; geometry not screened at every history point
+torsion,2,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,2,2,2.0,0.5496358410000539,reached,RMSD only; geometry not screened at every history point
+torsion,2,2,1.5,,not reached,RMSD only; geometry not screened at every history point
+torsion,2,2,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,5,0,2.0,0.4893917199988209,reached,RMSD only; geometry not screened at every history point
+torsion,5,0,1.5,0.5104032139988703,reached,RMSD only; geometry not screened at every history point
+torsion,5,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,5,1,2.0,0.5237261030015361,reached,RMSD only; geometry not screened at every history point
+torsion,5,1,1.5,0.5237261030015361,reached,RMSD only; geometry not screened at every history point
+torsion,5,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,5,2,2.0,0.5133573959992646,reached,RMSD only; geometry not screened at every history point
+torsion,5,2,1.5,0.5133573959992646,reached,RMSD only; geometry not screened at every history point
+torsion,5,2,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,10,0,2.0,0.494519482999749,reached,RMSD only; geometry not screened at every history point
+torsion,10,0,1.5,0.5156012179995741,reached,RMSD only; geometry not screened at every history point
+torsion,10,0,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,10,1,2.0,0.6065923330006626,reached,RMSD only; geometry not screened at every history point
+torsion,10,1,1.5,0.6272865119990456,reached,RMSD only; geometry not screened at every history point
+torsion,10,1,1.0,,not reached,RMSD only; geometry not screened at every history point
+torsion,10,2,2.0,0.6444200139994791,reached,RMSD only; geometry not screened at every history point
+torsion,10,2,1.5,0.6655679799987411,reached,RMSD only; geometry not screened at every history point
+torsion,10,2,1.0,,not reached,RMSD only; geometry not screened at every history point
